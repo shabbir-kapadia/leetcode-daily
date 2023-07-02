@@ -12,4 +12,5 @@ class Solution:
             else:
                 steps+=1
         return steps
+    
         

@@ -20,3 +20,4 @@ class Leaderboard:
 
     def reset(self, playerId: int) -> None:
         self.dic[playerId] = 0
+        

@@ -16,3 +16,4 @@ class Solution:
             else:
                 cur += c
         return cur
+    

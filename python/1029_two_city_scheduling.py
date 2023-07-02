@@ -6,3 +6,4 @@ class Solution:
         for i in range(total):
             cost += costs[i][0] + costs[total+i][1]
         return cost
+    

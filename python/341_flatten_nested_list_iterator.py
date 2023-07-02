@@ -19,3 +19,4 @@ class NestedIterator:
             # Unpack the list at the top by putting its items onto
             # the stack in reverse order.
             self.stack.extend(reversed(self.stack.pop().getList()))
+            
